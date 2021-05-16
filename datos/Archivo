@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Academia>
+<Modulos/>
+<Estudiantes>
+<Estudiante>
+<nif>52698459P</nif>
+<nombre>jacobo</nombre>
+<direccion>as</direccion>
+<codigo_postal>41000</codigo_postal>
+<telefono>625225363</telefono>
+<ListaModulo/>
+</Estudiante>
+</Estudiantes>
+<Profesores/>
+</Academia>

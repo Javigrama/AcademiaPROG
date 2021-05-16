@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Academia>
+  <Modulos>
+    <Modulo>
+      <nombre>BBDD</nombre>
+      <horas>8</horas>
+      <unidades>8</unidades>
+    </Modulo>
+    <Modulo>
+      <nombre>FOL</nombre>
+      <horas>8</horas>
+      <unidades>8</unidades>
+    </Modulo>
+    <Modulo>
+      <nombre>LMSGI</nombre>
+      <horas>8</horas>
+      <unidades>8</unidades>
+    </Modulo>
+    <Modulo>
+      <nombre>SSII</nombre>
+      <horas>8</horas>
+      <unidades>8</unidades>
+    </Modulo>
+    <Modulo>
+      <nombre>ENTORNOS</nombre>
+      <horas>8</horas>
+      <unidades>8</unidades>
+    </Modulo>
+    <Modulo>
+      <nombre>PROGRAMACION</nombre>
+      <horas>8</horas>
+      <unidades>8</unidades>
+    </Modulo>
+  </Modulos>
+  <Estudiantes>
+    <Estudiante>
+      <nif>52698459P</nif>
+      <nombre>jacoboi</nombre>
+      <direccion>ma r 4</direccion>
+      <codigo_postal>41000</codigo_postal>
+      <telefono>625225735</telefono>
+      <ListaModulo>FOL
+BBDD
+</ListaModulo>
+    </Estudiante>
+    <Estudiante>
+      <nif>44444444A</nif>
+      <nombre>julia</nombre>
+      <direccion>mar 5</direccion>
+      <codigo_postal>41000</codigo_postal>
+      <telefono>625225736</telefono>
+      <ListaModulo>FOL
+BBDD
+SSII
+</ListaModulo>
+    </Estudiante>
+    <Estudiante>
+      <nif>22222222J</nif>
+      <nombre>Segundo</nombre>
+      <direccion>mar 2</direccion>
+      <codigo_postal>22222</codigo_postal>
+      <telefono>622222222</telefono>
+      <ListaModulo>PROGRAMACION
+</ListaModulo>
+    </Estudiante>
+    <Estudiante>
+      <nif>33333333P</nif>
+      <nombre>TERCERO</nombre>
+      <direccion>MAR 3</direccion>
+      <codigo_postal>33333</codigo_postal>
+      <telefono>633333333</telefono>
+      <ListaModulo>PROGRAMACION
+</ListaModulo>
+    </Estudiante>
+    <Estudiante>
+      <nif>55555555K</nif>
+      <nombre>QUINTO</nombre>
+      <direccion>MAR 5</direccion>
+      <codigo_postal>05555</codigo_postal>
+      <telefono>655555555</telefono>
+      <ListaModulo>PROGRAMACION
+</ListaModulo>
+    </Estudiante>
+  </Estudiantes>
+  <Profesores>
+    <Profesor>
+      <nif>11111111H</nif>
+      <nombre>PROFESOR 1</nombre>
+      <direccion>MAR 1</direccion>
+      <codigo_postal>11111</codigo_postal>
+      <telefono>611111111</telefono>
+      <imparte>PROGRAMACION</imparte>
+    </Profesor>
+  </Profesores>
+</Academia>
